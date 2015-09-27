@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "SelectTestName";
+}
+
+<h3>Select Test Name</h3>
+
+@using(Html.BeginForm())
+{
+    <p>@Html.Label("Test name") @Html.DropDownList("testName", new SelectList(new[]{"Programming", "Mathematics"}))</p>
+    <p>@Html.Label("Difficulty level") @Html.DropDownList("testLevel", new SelectList(new[]{"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"}))</p>
+    <input type="submit" value="Get Questions" />
+}
+

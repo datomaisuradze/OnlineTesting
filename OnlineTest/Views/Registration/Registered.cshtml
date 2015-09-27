@@ -1,0 +1,18 @@
+﻿@model BusinessLogicLayer.ServiceResult<BusinessLogicLayer.Model.User>
+
+@{
+    ViewBag.Title = "Registered";
+}
+
+<h2>@Model.Message</h2>
+<h3>Please choose option bellow</h3>
+<p>@Html.ActionLink("Home", "Index", "Home")</p>
+
+
+@if (Model.Success == true)
+{
+    <p>@Html.ActionLink("Start Test", "Start", "Test")</p>
+}
+
+
+

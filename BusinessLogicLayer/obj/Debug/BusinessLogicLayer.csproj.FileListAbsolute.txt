@@ -1,0 +1,58 @@
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

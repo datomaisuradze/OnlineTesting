@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>StopWatch</id>
+    <version>1.0.6</version>
+    <title>Stopwatch filter for ASP.NET MVC</title>
+    <authors>Rick Anderson</authors>
+    <owners>Rick Anderson</owners>
+    <projectUrl>http://blogs.msdn.com/b/webdev/archive/2014/07/29/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure.aspx</projectUrl>
+    <iconUrl>https://dl.dropboxusercontent.com/u/18075777/SW.PNG</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This simple filter allows you to time all your action methods. See the ReadMe.txt file for details. See http://blogs.msdn.com/b/webdev/archive/2014/07/29/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure.aspx for details.</description>
+    <summary>Drop in this filter to time all your action methods. See the ReadMe.txt file for details.</summary>
+    <releaseNotes>Shows timing data by default.</releaseNotes>
+    <tags>AspNetMVC MVC performance profiling timing stopwatch measurement Timer</tags>
+  </metadata>
+</package>

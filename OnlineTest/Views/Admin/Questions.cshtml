@@ -1,0 +1,73 @@
+﻿@model IEnumerable<BusinessLogicLayer.Model.Question>
+
+@{
+    ViewBag.Title = "Questions";
+}
+
+<h2>Questions</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateQuestion")
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TestQuestion)
+        </th>
+        <th>
+            @Html.DisplayName("Asnwers")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CorrectAnswer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TestName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DifficultyLevel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Grade)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestQuestion)
+            </td>
+            <td>
+                @foreach (var answer in item.QuestionAnswers)
+                {
+                    @Html.DisplayFor(modelItem => answer.Answers.QuestionAnswer)
+                    <br />
+                }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorrectAnswer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DifficultyLevel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditQuestion", "Admin", new { id = item.ID },null) |
+                @Html.ActionLink("Delete", "RemoveQuestion", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>

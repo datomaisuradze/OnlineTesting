@@ -1,0 +1,31 @@
+﻿@model BusinessLogicLayer.Model.TestResult
+@{
+    ViewBag.Title = "TestCompleted";
+}
+
+<h2>Test Completed</h2>
+
+@using(Html.BeginForm("Completed", "Test"))
+{
+    <h3>Test Completed, You've answered correctly @Model.AnsweredQuestions questions and you get @Model.CollectedPoints points</h3>
+    <hr />
+    
+    <div>
+        <label style="height:10px; width:280px; font-size:18px; text-align:center; font-weight:bold;">More Info</label>
+        <dl class="dl-horizontal">
+            <dt>@Html.DisplayNameFor(m => m.CategoryName)</dt>
+            <dd>@Html.DisplayFor(m => m.CategoryName)</dd>
+
+            <dt>@Html.DisplayNameFor(m => m.Date)</dt>
+            <dd>@Html.DisplayFor(m => m.Date)</dd>
+
+            <dt>@Html.DisplayNameFor(m => m.CollectedPoints)</dt>
+            <dd>@Html.DisplayFor(m => m.CollectedPoints)</dd>
+
+            <dt>@Html.DisplayNameFor(m => m.TestMaxPoints)</dt>
+            <dd>@Html.DisplayFor(m => m.TestMaxPoints)</dd>
+        </dl>
+    </div>
+
+    <p><input type="submit" value="OK" /></p>
+}

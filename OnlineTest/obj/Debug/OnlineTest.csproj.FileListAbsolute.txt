@@ -1,0 +1,205 @@
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll.config
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\WebGrease.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll.config
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\OnlineTest.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\EntityFramework.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Ninject.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\WebActivatorEx.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\WebGrease.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\EntityFramework.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Ninject.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\WebActivatorEx.dll
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.xml
+D:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll.config
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.pdb
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\WebActivatorEx.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\WebGrease.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.pdb
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.pdb
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+E:\C#, .NET, SQL\C#, .NET, SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll.config
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\OnlineTest.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\WebActivatorEx.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\WebGrease.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+D:\C#_.NET_SQL\C#_.NET_SQL\ASP.NET MVC\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll.config
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\OnlineTest.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\OnlineTest.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\EntityFramework.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Microsoft.Web.Infrastructure.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Ninject.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\WebActivatorEx.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\WebGrease.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\BusinessLogicLayer.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\DataAccessLayer.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\EntityFramework.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\EntityFramework.SqlServer.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Ninject.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Common.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Ninject.Web.Mvc.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Helpers.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Mvc.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Optimization.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.Razor.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Deployment.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\System.Web.WebPages.Razor.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Newtonsoft.Json.xml
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\bin\Antlr3.Runtime.pdb
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.csprojResolveAssemblyReference.cache
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.dll
+G:\Dato\Main\Asp.Net Mvc 5\ProjectOnlineTest\OnlineTest\obj\Debug\OnlineTest.pdb

@@ -1,0 +1,53 @@
+﻿@model BusinessLogicLayer.Model.Question
+
+@{
+    ViewBag.Title = "Start";
+}
+
+<h2>Start</h2>
+
+@using (Html.BeginForm("Index", "Test", FormMethod.Get)) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Question</h4>
+        <hr />
+        @Html.ValidationSummary()
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TestName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.TestName, new SelectList(new[] { "Programming", "Mathematics" }))
+                @Html.ValidationMessageFor(model => model.TestName)
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DifficultyLevel, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m=>m.DifficultyLevel, new SelectList(new[]{"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"}))
+                @Html.ValidationMessageFor(model => model.DifficultyLevel)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Type your <u>Username</u> if you're not robot @Html.EditorFor(m => m.UserName)</label>
+            <div class="col-md-10">
+                @Html.ValidationMessageFor(model => model.UserName)
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Start" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

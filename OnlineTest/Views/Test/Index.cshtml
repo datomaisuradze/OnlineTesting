@@ -1,0 +1,154 @@
+﻿@model BusinessLogicLayer.Model.Question
+    ViewBag.Title = "Index";
+
+    <style>
+        .correct > pre {
+            font-size: 25px;
+            color: green;
+            text-align: center;
+        }
+
+        .incorrect > pre {
+            font-size: 25px;
+            color: red;
+            text-align: center;
+        }
+    </style>
+
+
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("myModal").modal('show');
+
+
+            $("#cl").click(function () {
+                var selected = $("input[type=radio]:checked").val();
+                Result(selected);
+                window.clearInterval(myVar);
+            });
+        });
+
+
+        $(window).load(function(){
+            var myVar=setInterval(function(){ myTimer() }, 1000);
+        });
+
+        var d = 16;
+        function myTimer(){
+            var t = d-1;
+            d=t;
+
+            if(t<=16 && t>=10)
+            {
+                document.getElementById("timee").style.color="lime";
+            }
+
+            if(t<10 && t>=5)
+            {
+                document.getElementById("timee").style.color="yellow";
+            }
+
+            if(t<5 && t>=0)
+            {
+                document.getElementById("timee").style.color="red";
+            }
+
+            if(t<=-1)
+            {
+                document.getElementById("timee").style.color="red";
+                document.getElementById("timee").innerHTML="<h1>Time Up!</h1>";
+                clearInterval(myVar);
+                d=15;
+            }
+            else
+            {
+                document.getElementById("timee").innerHTML="<h3> 00:00:" + t + "</h3>";
+            }
+        }
+
+        function Result(s) {
+            var c = @Html.Raw(Json.Encode(Model.CorrectAnswer));
+            if (c == s) {
+                $("#res").addClass("correct").html("<pre>Correct</pre>");
+                $("#loading").attr("src", "../Images/spiffygif_70x70.gif");
+                $("#changeCss").css("background-color", "green");
+            }
+            else {
+                $("#res").addClass("incorrect").html("<pre>Incorrect</pre>");
+                $("#loading").attr("src", "../Images/spiffygif_70x70%20(1).gif");
+                $("#changeCss").css("background-color", "red");
+            }
+        }
+    </script>
+}
+
+<h2>Test</h2>
+
+@using (Html.BeginForm("IndexApplied", "Test", FormMethod.Post))
+{
+    @*@Html.HiddenFor(m => m.ID)
+    @Html.HiddenFor(m => m.CorrectAnswer)
+    @Html.HiddenFor(m => m.Grade)
+    @Html.HiddenFor(m => m.UserName)
+    @Html.HiddenFor(m=>m.TestName)
+    @Html.HiddenFor(m=>m.DifficultyLevel)*@
+    
+    <input type="hidden" name="ID" value="@Model.ID" />
+    <input type="hidden" name="CorrectAnswer" value="@Model.CorrectAnswer" />
+    <input type="hidden" name="Grade" value="@Model.Grade" />
+    <input type="hidden" name="UserName" value="@Model.UserName" />
+    <input type="hidden" name="TestName" value="@Model.TestName" />
+    <input type="hidden" name="DifficultyLevel" value="@Model.DifficultyLevel" />
+
+    <div class="form-group">
+        <pre style="background-color:red; color:white; font-size:15px; font-weight:bold; width:50%">After <b><u>15 seconds</u></b> question points will not be icreased!!!</pre>
+        <pre style="background-color:blue; color:white; font-size:15px; font-weight:bold; width:35%"><label class="control-label">Points for this question: <label>@Model.Grade</label></label></pre>
+        <pre id="timee" style="background-color:steelblue; width:20%"></pre>
+        <hr />
+    </div>
+
+
+
+    <div class="form-group">
+        <form action="/Test/IndexApplied" method="post">
+            <pre style="width:100%; font-size:25px">@Model.TestQuestion</pre>
+
+            <table class="table">
+                @foreach (var item in Model.QuestionAnswers)
+                {
+                    <tr>
+                        <td><pre id="customPre"><input type="radio" class="qw" name="SelectedAnswer" value=@item.Answers.QuestionAnswer>@item.Answers.QuestionAnswer</pre></td>
+                    </tr>
+                }
+            </table>
+            <hr />
+            <table>
+                <tr>
+                    <th>
+                        <pre id="changeCss" style="background-color:blue; color:white; font-size:25px; font-weight:bold; float:left"><input id="cl" type="submit" value="Next" /></pre>
+                    </th>
+
+                    <th>
+                        <img id="loading" />
+                    </th>
+                </tr>
+            </table>
+            <br />
+            <br />
+            <br />
+        </form>
+    </div>
+    
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body">
+                    SUCCESS
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="res"></div>
+}

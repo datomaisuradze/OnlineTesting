@@ -1,0 +1,93 @@
+﻿@model BusinessLogicLayer.Model.Question
+
+@{
+    ViewBag.Title = "CreateQuestion";
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.min.js"></script>
+    
+    <script>
+        $(document).ready(function () {
+            $(".addTextbox").click(function () {
+                $(".addHere").append('<p><input type="text" name="Answers" /></p>');
+            });
+        });
+    </script>
+}
+
+<h2>CreateQuestion</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Question</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TestName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.TestName, new SelectList(new[] { "Programming", "Mathematics" }))
+                @Html.Label("Here you must choose test name, which will contain this question")
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DifficultyLevel, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DifficultyLevel, new SelectList(new[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10" }))
+                @Html.Label("1-easy, 2-harder and so on")
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Grade, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Grade)
+                @Html.ValidationMessageFor(model => model.Grade)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TestQuestion, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.TestQuestion, new { @style = "height:50px; width:300px;" })
+                @Html.ValidationMessageFor(model => model.TestQuestion)
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CorrectAnswer, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CorrectAnswer)
+                @Html.ValidationMessageFor(model => model.CorrectAnswer)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Add textbox for answer", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input class="addTextbox" type="button" value="+" height="100" width="100" style="font-size:25px; font-weight:bold" />
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.Label("Write your answers here", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="addHere"></div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Questions")
+</div>

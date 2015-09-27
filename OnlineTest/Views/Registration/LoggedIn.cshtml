@@ -1,0 +1,21 @@
+﻿@model BusinessLogicLayer.ServiceResult<BusinessLogicLayer.Model.ForLogIn>
+@{
+    ViewBag.Title = "LoggedIn";
+}
+
+<h2>@Model.Message</h2>
+
+<p>@Html.ActionLink("Home", "Index", "Home")</p>
+
+@if (Model.Success == true)
+{
+    <p>@Html.ActionLink("Start Test", "Start", "Test")</p>
+}
+else
+{
+    <p>Please try again: @Html.ActionLink("Log In", "LogIn", "Registration")</p>
+}
+
+
+
+

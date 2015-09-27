@@ -1,0 +1,110 @@
+﻿@model BusinessLogicLayer.Model.User
+
+@{
+    ViewBag.Title = "EditUser";
+}
+
+<h2>EditUser</h2>
+
+<style>
+    .PasswordError
+    {
+        background-color:#f87878;
+    }
+</style>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>User</h4>
+        <hr />
+        @Html.ValidationSummary()
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            <div class="col-md-2"></div>
+            <div class="col-md-10">
+                <label class="control-label" id="PasswordsNotMatchedError" style="color:red"></label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.UserName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="email" class="form-control" name="Email" />
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserPassword, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.UserPassword, new { @class = "form-control", @id="InputPassword" })
+                <label class="control-label col-md-10" id="InputPasswordError"></label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserRepeatPassword, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.UserRepeatPassword, new { @class = "form-control", @id="InputRepeatedPassword" })
+                <label class="control-label col-md-10" id="InputRepeatedPasswordError"></label>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IsActive, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.CheckBoxFor(model => model.IsActive, new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("InputPassword").keyup(function () {
+            var Password = $("#InputPassword").val();
+            if(Password.length<6)
+            {
+                $("#InputPassword").addClass("PasswordError");
+                $("#InputPasswordError").html("Password's minimum length is 6 characters");
+            }
+        });
+
+        $("#InputRepeatedPassword").keyup(function () {
+            var Password = $("#InputPassword").val();
+            var RepeatedPassword = $("#InputRepeatedPassword").val();
+
+            if (RepeatedPassword.length < 6)
+            {
+                $("#InputRepeatedPassword").addClass("PasswordError");
+                $("InputRepeatedPasswordError").html("Repeated Password's minimum length is 6 cahracters");
+            }
+
+            if (Password != RepeatedPassword) {
+                $("#PasswordsNotMatchedError").text("Password and Repeated Password not matched");
+            }
+        });
+    });
+</script>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
